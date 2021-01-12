@@ -1,9 +1,9 @@
-# Write a Python3 program to find
-# all the pairs of values from two arrays
 # Create a program in Python3 that
 # finds the sum of two numbers m and n, 
 # where m is part of the first array arr1
 # and is is part of the secon array arr2
+# and list all the sums that add up to a 
+# given x value.
 def findPairs (arr1, arr2, m, n, x):
 
     for i in range(0, m):
